@@ -6,7 +6,8 @@ Instalación:
 Utilice librerias de boostrap jquery para un mejor dinamismo del sistema y este sistema permite conexion a la internet. 
 Para hacer la instalacion, debe contar con un servidor local, se recomienda usar XAMPP, Donde se instalará apache y MySQL. 
 
-Una vez se cuente con el servidor local, se procede a ejecutar el dump SQL que se cargó en la carpera sql y el archivo llamado basedatos.sql. En este se crearán las tablas y registros correspondientes del sistema.
+Una vez se cuente con el servidor local, se procede a ejecutar el dump SQL que se cargó en la carpeta basedatos y el archivo llamado nota.sql.
+En este se crearán las tablas y registros correspondientes.
 
 Clonar el proyecto con git clone https://github.com/ynavarro44/Prueba-SIC.git (en la respectiva carpeta del servidor local instalado, htdocs para XAMPP y www para apache).
 
