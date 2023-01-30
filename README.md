@@ -1,7 +1,8 @@
 PRUEBA TÉCNICA
 By Yina Navarro Vanegas--- SIC
 
-Instalación
+Instalación:
+
 Utilice librerias de boostrap jquery para un mejor dinamismo del sistema y este sistema permite conexion a la internet. 
 Para hacer la instalacion, debe contar con un servidor local, se recomienda usar XAMPP, Donde se instalará apache y MySQL. 
 
@@ -13,14 +14,15 @@ En el archivo conexion se debera especificar la conexión a la base de datos dep
 
 Una vez ejecutado el dump SQL y clonado el proyecto ya puede ejecutar este proyecto en modo local.
 
-Explicación del código
+Explicación del código:
+
 Este sistema fue montado con PHP puro sin ayuda de ningun framework, separando backend y frontend. Al iniciar el sistema se ejecuta el archivo index.php el cual contiene la vista de las tablas de radicaciones. Este formulario redirecciona a su componente backend llamado login.php.Se puede editar o crear radicados.
 
-Explicación base de datos
+Explicación base de datos:
 Se cuenta con 3 tablas creadas: personas, t_usuarios, radicadiones y radicaciones_log
 
 
 datos de acceso al sistema
 Datos de acceso: yinanavarrov@gmail.com 
-© 2023 GitHub, Inc.
+
 
